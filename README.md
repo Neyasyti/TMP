@@ -1,2 +1,2 @@
 # TMP
-Practice with UML.
+Practice with UML
