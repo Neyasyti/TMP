@@ -19,7 +19,7 @@ rectangle Система {
 @enduml
 ```
 
-
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_1/1.png)
 
 
 
