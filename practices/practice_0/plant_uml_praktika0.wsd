@@ -1,6 +1,0 @@
-@startuml Praktika0
-PlantUML --|> First: Рисование картинок
-PlantUML --|> Second: Средство обмена информацией
-PlantUML --|> Third: Средство спецификации систем
-PlantUML --|> Fourth: Генерация кода
-@enduml
