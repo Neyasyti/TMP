@@ -19,12 +19,7 @@ rectangle Система {
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_1/1.png)
-
-
-
-
-
+![Система](https://github.com/Smipos/TMP/blob/main/practices/practice_1/1.png)
 
 ```
 @startuml
@@ -71,3 +66,4 @@ class Аккаунт{
 Квартиросъемщик ---> Квартира: Снять жилье
 @enduml
 ```
+![Действия](https://github.com/Smipos/TMP/blob/main/practices/practice_1/2.png)
