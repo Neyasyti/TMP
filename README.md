@@ -16,6 +16,8 @@ rectangle Система {
 }
 @enduml
 ```
+
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_0/Практическая%20работа%201.png)
 # Практика 1
 ```
 @startuml "Практическая работа 1"
