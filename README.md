@@ -88,6 +88,7 @@ class Аккаунт{
 ```
 ![Действия](https://github.com/Smipos/TMP/blob/main/practices/practice_1/2.png)
 
+
 ##Контрольные вопросы
 1. Что такое UML? Какие вы знаете основные диаграммы UML?
 
