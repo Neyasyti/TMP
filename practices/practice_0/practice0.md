@@ -1,6 +1,6 @@
 # Практика 0
 ```
-@startuml "Практическая работа 1"
+@startuml "Практическая работа 0"
 left to right direction
 title Информационная система жилищного агенства
 skinparam backgroundcolor PowderBlue
