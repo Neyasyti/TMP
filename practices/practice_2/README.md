@@ -18,3 +18,5 @@ participant Агент
 @enduml
 ```
 ![](https://github.com/Smipos/TMP/blob/main/practices/practice_2/1.png)
+
+Диаграмма развертывания
