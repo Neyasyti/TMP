@@ -60,4 +60,4 @@ node Договор {
 Владелец --0 Квартиросъемщик: Сдает квартиру
 Квартиросъемщик --0 Владелец: Снимает квартиру
 ```
-![] (https://github.com/Smipos/TMP/blob/main/practices/practice_2/2.png)
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_2/2.png)
