@@ -136,3 +136,26 @@ Skip conversion
 `xml` was processed
 ```
 ## Диаграмма
+
+```
+@startuml
+abstract class Template_Method.Template {
++ void converter()
++ void to_save()
++ {abstract}void getter() 
+}
+class Template_Method.XML {
++ {static} void returnXML()
+}
+class Template_Method.PDF {
++ void returnPDF()
+}
+class Template_Method.CSV {
++ void returnCSV()
+}
+
+Template_Method.Template <|-- Template_Method.XML
+Template_Method.Template <|-- Template_Method.PDF
+Template_Method.Template <|-- Template_Method.CSV
+@enduml
+```
