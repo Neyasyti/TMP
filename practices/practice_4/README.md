@@ -127,3 +127,14 @@ stl.accept(student)
 dsa.accept(instructor)
 dsa.accept(student)
 ```
+
+Вывод программы:
+
+```
+SDE Taught by  Instructor
+SDE studied by  Student  
+STL Taught by  Instructor
+STL studied by  Student  
+DSA Taught by  Instructor
+DSA studied by  Student 
+```
