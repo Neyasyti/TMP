@@ -46,4 +46,30 @@ A B C D E F G H I J K
 A B C D E F G H I J K L M A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 a b c d e f g h i j k l m n o p q r s t u v w x y z
 ```
+
+## Диаграмма
+
+```
+@startuml
+interface Iterator.Iterator {
++ boolean hasNext()
++ Object next()
+}
+interface Iterator.Aggregate {
++ Create Iterator()
++ Iterator()
+}
+class Iterator.Concrete_Iterator {
++ {static} void hasNext():Next
+}
+class Iterator.Concrete_Aggregate {
++ {static} void Create Iterator():Iterator
+}
+
+Iterator.Iterator <|..|> Iterator.Aggregate
+Iterator.Aggregate ..> Iterator.Concrete_Iterator
+Iterator.Concrete_Iterator ..> Iterator.Iterator
+Iterator.Concrete_Aggregate ..> Iterator.Aggregate
+@enduml
+```
 # Посетитель
