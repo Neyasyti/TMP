@@ -59,6 +59,8 @@ Strategy.BaseStrategy <|.. Strategy.Adder
 Strategy.BaseStrategy <|.. Strategy.Multiplicator
 
 @enduml
+
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_3/strategy/strategy.jpg)
 ```
 
 
