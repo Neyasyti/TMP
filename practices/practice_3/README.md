@@ -37,6 +37,29 @@ class Calculator:
 
 ## Диаграмма
 
+```
+@startuml
+class Strategy.Calculator {
+~ Activity activity
++ void setActivity(Activity)
++ void executeActivity()
+}
+class Strategy.Adder {
++ void AddSmth()
+}
+interface Strategy.BaseStrategy {
++ void AddSmth()
++ void MultiplicateSmth()
+}
+class Strategy.Multiplicator {
++ void MultiplicateSmth()
+}
+
+Strategy.BaseStrategy <|.. Strategy.Adder
+Strategy.BaseStrategy <|.. Strategy.Multiplicator
+
+@enduml
+```
 
 
 # Шаблонный метод
