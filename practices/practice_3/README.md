@@ -32,4 +32,9 @@ class Calculator:
     def calculate(self, x, y):
         print('Result is', self.strategy.do_work(x, y))
 ```
+
+## Диаграмма
+
+
+
 # Шаблонный метод
