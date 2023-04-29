@@ -116,4 +116,23 @@ if __name__ == "__main__":
     template_function(get_xml, to_save = True)
 ```
 
+Результат работы программы:
+
+```
+Got `plain_text`
+Skip conversion
+[SAVE]
+`plain_text` was processed 
+Got `pdf`
+[CONVERT]
+`pdf as text` was processed
+Got `csv`
+Skip conversion
+[SAVE]
+`csv` was processed
+Got `xml`
+Skip conversion
+[SAVE]
+`xml` was processed
+```
 ## Диаграмма
