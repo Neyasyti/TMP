@@ -74,6 +74,7 @@ Iterator.Concrete_Aggregate ..> Iterator.Aggregate
 ```
 
 ![](https://github.com/Smipos/TMP/blob/main/practices/practice_4/iterator/iterator.jpg)
+
 # Посетитель
 
 ```
