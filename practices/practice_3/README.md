@@ -60,8 +60,7 @@ Strategy.BaseStrategy <|.. Strategy.Multiplicator
 
 @enduml
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_3/strategy/strategy.jpg)
 ```
-
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_3/strategy/strategy.jpg)
 
 # Шаблонный метод
