@@ -138,3 +138,5 @@ STL studied by  Student
 DSA Taught by  Instructor
 DSA studied by  Student 
 ```
+
+## Диаграмма
