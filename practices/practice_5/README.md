@@ -169,4 +169,5 @@ for item in ITEMS:
 ```
 
 Диаграмма:
+
 ![](https://github.com/Smipos/TMP/blob/main/practices/practice_5/adapter/adap.jpg)
