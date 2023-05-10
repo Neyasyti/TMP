@@ -49,3 +49,6 @@ def create_dialog(factory):
 w = create_window(LinuxFactory)
 w.show()
 ```
+Диаграмма UML:
+
+![](https://github.com/Smipos/TMP/blob/main/practices/practice_5/abstract_fb/fabrk.jpg)
