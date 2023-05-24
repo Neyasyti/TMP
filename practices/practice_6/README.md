@@ -35,3 +35,31 @@ import your_name_people
 
 your_name_people.people.append("Serzh")
 ```
+
+## Диаграмма
+
+```
+@startuml Inversion_Of_Control
+class YourName.your_name {
+- config []
++ def your_name()
+}
+class YourName.your_name_people {
++ def your_name_people()
+}
+class YourName.main {
+- config []
++ def your_name()
+}
+class YourName.serzh {
++ people.append()
+}
+
+
+YourName.your_name <|.. YourName.main
+YourName.your_name_people <|.. YourName.main
+YourName.serzh <|.. YourName.your_name
+@enduml
+```
+
+![инверсия контроля](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/Inversion_Of_Control.png)
